@@ -1,0 +1,7 @@
+name: WRaids
+version: '1.0-SNAPSHOT'
+main: org.thestepashich.wRaids.WRaids
+api-version: '1.21'
+prefix: WRaids
+authors: [ TheStepashich ]
+description: WRoulette copy game Buckshot Roulette in Minecraft
